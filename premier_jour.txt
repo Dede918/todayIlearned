@@ -1,7 +1,7 @@
 appris:
 
-l install
-config
-add
-commit
-branch
+*l install
+*config
+*add
+*commit
+*branch
